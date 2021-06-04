@@ -1,6 +1,6 @@
 # Performance-testing
 
-Performance testing for canow backend  
+Performance testing for backend  
 
 ## Installation k6
 ```
